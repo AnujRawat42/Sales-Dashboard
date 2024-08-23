@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-The management team requires comprehensive insights into Amazon product sales across various categories and regions in India. We have two CSV files(https://drive.google.com/drive/folders/1FascOQVc615Egn_Oc8D4wqPnvFCErvmi?usp=drive_link)containing sales data, and the goal is to utilize Power BI to analyze and visualize this information effectively. Key insights to be derived include:
+The management team requires comprehensive insights into Amazon product sales across various categories and regions in India. We have two [CSV files](https://drive.google.com/drive/folders/1FascOQVc615Egn_Oc8D4wqPnvFCErvmi?usp=drive_link)containing sales data, and the goal is to utilize Power BI to analyze and visualize this information effectively. Key insights to be derived include:
 -	The number of units sold within each product category
 -	Total sales revenue generated per category
 -	The count of sellers associated with each category
